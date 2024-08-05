@@ -6,7 +6,7 @@ import requests
 import json
 import base64
 
-TOKEN = os.getenv('DISCORD_BOT_TOKEN')
+TOKEN = ""
 MINECRAFT_SERVER_ADDRESS = ''
 CHANNEL_NAME = ''
 
